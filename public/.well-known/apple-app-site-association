@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4M55C6NW78.com.sparklingapps.PiccyBot",
+        "paths": [
+          "/wearables/*",
+          "/wearables",
+          "/wearables/callback*"
+        ]
+      }
+    ]
+  }
+}
